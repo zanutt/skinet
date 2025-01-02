@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\API\\API.csproj": {}
+    "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\API\\API.csproj": {
+    "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Zanutto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\Zanutto\\Desktop\\Estudos\\.netCore\\skinet\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zanutto\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[3.1.32, )"

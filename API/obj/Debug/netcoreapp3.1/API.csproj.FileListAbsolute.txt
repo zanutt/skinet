@@ -77,3 +77,5 @@ C:\Users\Zanutto\Desktop\Estudos\.netCore\skinet\API\bin\Debug\netcoreapp3.1\Cor
 C:\Users\Zanutto\Desktop\Estudos\.netCore\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Zanutto\Desktop\Estudos\.netCore\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\Zanutto\Desktop\Estudos\.netCore\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Zanutto\Desktop\Estudos\.netCore\skinet\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Zanutto\Desktop\Estudos\.netCore\skinet\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
